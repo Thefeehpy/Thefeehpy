@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Thefeehpy/Thefeehpy/output/snake.svg" alt="Snake animation" />
+
 
 ###
